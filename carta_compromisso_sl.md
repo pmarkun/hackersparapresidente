@@ -48,9 +48,13 @@ A comunidade brasileira de software livre entende que os cargos do executivo e l
 
 
 Data: ____/____/2014
+
 Assinatura d@ candidat@: _______________________________
+
 Cargo a que se candidata: ______________________________
+
 Partido e número: ____________________________________
 
 *http://www.br-linux./2008/01/faq-softwarelivre.html
+
 *Carta construída colaborativamente no pad http://piratepad.net/carta-compromisso-software-livre
