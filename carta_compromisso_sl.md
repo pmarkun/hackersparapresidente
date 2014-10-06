@@ -1,4 +1,4 @@
-#**Carta de Compromisso da Comunidade de Software Livre* Brasileira AOS Candidatos NAS Eleições de 2014**
+#**Carta de Compromisso da Comunidade de Software Livre* Brasileira a@s Candidat@s nas Eleições de 2014**
 
 ##**Considerando que o software livre:**
 
