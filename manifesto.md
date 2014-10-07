@@ -22,6 +22,7 @@ Essa nova instituição deverá realizar uma agenda que passe por:
 12. Suporte a criação e manutenção de padrões e protocolos abertos;
 13. Incentivo à pesquisa e à produção crítica tendo como príncipio os conceitos definidos pelo Software Livre, sejam os resultados em forma textual, tecnológica ou produção audiovisual e artística;
 14. Incentivar o hackeamento da infraestrutura urbana, de modo que as cidades e a participação cidadã seja realizada de forma ágil e desburocratizada.
+15. Incentivo à pesquisa, iniciação científica e à produção crítica na Academia, em todos os níveis, passando por IES públicas, e especialmente as privadas (formadoras de mais 60% do Ensino Superior), tendo como base o Software Livre e as Tecnologias Abertas, por meio de EDITAIS PÚBLICOS de fomento, que garantam a participação efetiva de Faculdades, Centros Universitários e Universidades de forma igualitária.
 
 ##**Participação e democracia digital**
 
@@ -34,6 +35,7 @@ A utilização cada vez mais intensa da internet e das tecnologias de comunicaç
 5. Fortalecimento do Participa.br como instrumento de participação digital e como interface oficial de inclusão de novos atores na agenda da decisão política;
 6. Propor alteração na legislação para que e a Lei de Iniciativa Popular e outros mecanismos de participação social  possam ter adesão pela Internet, válida como assinatura, conforme PEC 03/2011 http://www.senado.gov.br/atividade/materia/detalhes.asp?p_cod_mate=99067.
 7. Através do envolvimento de outros setores, estimular a pesquisa e a inovação em novas linguagens para a participação social como, por exemplo, o audiovisual e a cultura de Commons.
+8. Incentivo à pesquisa, iniciação científica e à produção crítica na Academia, em todos os níveis, passando por IES públicas, e especialmente as privadas (formadoras de mais 60% do Ensino Superior), tendo como base o Software Livre, a Participação Social e o processo colaborativo de desenvolvimento de Software, por meio de Laboratórios Acadêmicos (como exemplo o LAPPIS na UNB) que por meio do Ensino Prático e Real possam contribuir com demandas reais do Governo Federal. 
 
 ##**Dados Abertos**
 
@@ -63,9 +65,9 @@ Assim como a sociedade tem experimentado novos modelos de desenvolvimento e troc
 
 1. Lançar programas de aprendizagem de algoritmos e linguagens de programação para crianças, adolescentes e jovens, incentivando a participação das mulheres, fortalecendo a igualdade de gênero;
 2. Ensino de Robótica Livre e Programação no currículo do Ensino Fundamental e Médio;
-3. Reformulação dos currículos e da formação dos professores do PRONATEC e dos IFs para contemplarem alfabetização de código e tecnologias abertas;
-4. Incentivos para a produção, intercâmbio e adoção de materiais livres nas instituições de ensino (Recursos Educacionais Abertos, REA);
-5. Estimular a criação de laboratórios hackers, os chamados hackerspaces, para experimentação, apropriação crítica de tecnologias e, sobretudo, da ética hacker. 
+3. Reformulação dos currículos e da formação dos professores do PRONATEC dos IFs, de IES Públicas e Privadas em todos os níveis para contemplarem alfabetização de código e tecnologias abertas;
+4. Incentivos para a produção, intercâmbio e adoção de materiais livres nas instituições de ensino por meio de fomento e de incentivos (Recursos Educacionais Abertos, REA);
+5. Estimular a criação de laboratórios hackers, os chamados hackerspaces, para experimentação, apropriação crítica de tecnologias e, sobretudo, da ética hacker, nos IFs, assim como em IES Públicas e Privadas. 
 
 ##**Infraestrutura e acesso**
 
